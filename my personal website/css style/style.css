@@ -1,0 +1,142 @@
+body{
+  text-align: center;
+  color: #40514e;
+}
+.cloud-2{
+  position: absolute;
+
+}
+
+
+.cloud-1{
+  position: relative;
+  left: 300px;
+}
+.intro{
+padding-top: 100px;
+background-color: #c3edea
+
+}
+h1{
+    font-family: 'Clicker Script', cursive;
+    font-size: 500%;
+    color: #66bfbf;
+}
+
+h2{
+  font-family: 'Delius Swash Caps', cursive;
+color: #11999E;
+}
+
+
+p{
+  font-family: 'Tenali Ramakrishna', sans-serif;
+   font-size: 30px
+}
+
+.profile{
+  padding-top: 100px;
+}
+
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+font-size: 25px;
+color: #5fdde5;
+}
+
+h5{
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  font-family: 'Berkshire Swash', cursive;
+padding-bottom: 10px;
+}
+a{
+  color: #11999E;
+}
+
+.bottom-container{
+  padding-top: 50px;
+  background-color: #66BFBF;
+  padding-bottom: 20px;
+
+}
+
+.CC{
+padding: 100px;
+}
+
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 1;
+
+}
+
+.pana{
+  width: 20%;
+  float: left;
+  margin-right: 100px;
+padding: 0;
+}
+
+.aryan{
+  width: 40%;
+
+
+}
+
+.coding{
+width: 20%;
+}
+
+.contact-me{
+margin-left: 100px;
+}
+
+
+
+.Butten{
+  position: relative;
+      display: inline-block;
+      margin: auto;
+      padding: 10px 25px;
+      background: #66BFBF;
+      border-radius: 50px;
+      font-size: 20px;
+      text-decoration: none;
+      font-family: sans-serif;
+      letter-spacing: 2px;
+      color: white;
+      font-weight: 600;
+      box-shadow: 0 0 25px #66BFBF;
+      transition: .3s;
+      overflow: hidden;
+
+}
+
+ a{
+   color: #11999E;
+margin: 10px 20px;
+font-family: 'Delius Swash Caps', cursive;
+text-decoration: none;
+
+ }
+
+ a:hover{
+   color: #eaf6f6;
+ }
+
+hr{
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+}
+
+.cc{
+  color: #eaf6f6;
+padding: 20px 0px;
+  font-size: 0.75rem;
+}
